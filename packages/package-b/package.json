@@ -1,0 +1,9 @@
+{
+  "name": "package-b",
+  "scripts": {
+    "test": "echo 'all package-b tests passed!'"
+  },
+  "dependencies": {
+    "lodash": "^3.0.0"
+  }
+}

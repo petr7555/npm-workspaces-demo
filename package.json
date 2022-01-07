@@ -1,0 +1,14 @@
+{
+  "name": "npm-workspaces-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Working!"
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "./packages/*"
+  ]
+}
